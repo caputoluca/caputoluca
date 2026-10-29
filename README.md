@@ -10,3 +10,5 @@ the background jobs, the infrastructure and the payments.
 - **An operations portal for a US logistics company** (2026–) · orders,
   dispatch and paperwork, in TypeScript and Postgres.
 - **Misapplied Sciences** (2025) · contractor, then associate software engineer.
+
+Reach me at a.luca.caputo@gmail.com.
