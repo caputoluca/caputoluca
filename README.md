@@ -8,5 +8,5 @@ the background jobs, the infrastructure and the payments.
   Postgres and Redis, Stripe payments on a double-entry ledger, and the AWS
   infrastructure in Pulumi. We wound it down in 2026.
 - **An operations portal for a US logistics company** (2026–) · orders,
-  dispatch and paperwork for a pallet business, in TypeScript and Postgres.
+  dispatch and paperwork, in TypeScript and Postgres.
 - **Misapplied Sciences** (2025) · contractor, then associate software engineer.
