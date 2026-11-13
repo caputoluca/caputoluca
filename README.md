@@ -11,4 +11,5 @@ the background jobs, the infrastructure and the payments.
   dispatch and paperwork, in TypeScript and Postgres.
 - **Misapplied Sciences** (2025) · contractor, then associate software engineer.
 
+The work and the writing: [caputoluca.com](https://caputoluca.com).
 Reach me at a.luca.caputo@gmail.com.
