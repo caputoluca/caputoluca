@@ -8,4 +8,4 @@ the background jobs, the infrastructure and the payments.
   dispatch and paperwork, in TypeScript and Postgres.
 - **Misapplied Sciences** (2025) · software engineer.
 
-[caputoluca.com](https://caputoluca.com) · [a.luca.caputo@gmail.com](mailto:a.luca.caputo@gmail.com)
+[caputoluca.com](https://caputoluca.com) · [Zenn](https://zenn.dev/caputoluca) · [a.luca.caputo@gmail.com](mailto:a.luca.caputo@gmail.com)
